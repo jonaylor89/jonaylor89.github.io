@@ -1,4 +1,7 @@
 
-# John Naylor
 
-I am a software developer tinkering with making a website :P
+First and foremost, I am a software engineer tinkering with website design :P
+
+
+
+
