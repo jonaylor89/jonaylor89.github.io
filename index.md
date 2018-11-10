@@ -8,3 +8,5 @@ real reason for this except for me getting bored all the time. I'll be a web
 developer one week, making logos in inkscape, then a OS dev the next, debugging
 things with gdb. It really just depends on my mood.
 
+Check out my <a href="jonaylor8.github.io/resume">resume</a>
+
