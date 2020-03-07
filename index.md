@@ -19,4 +19,4 @@ things with gdb. It really just depends on my mood.
 
 ### Contact Me
 
-Check out my <a href="resume">resume</a>
+Check out my <a href="resume">resume</a> for contact info or schedule a meeting on my <a href="https://x.ai/calendar/jonaylor">calendar</a>
