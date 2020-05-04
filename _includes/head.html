@@ -1,10 +1,8 @@
 <html>
   <head>
-    <script 
-      async src="https://ackee-jonaylor89.herokuapp.com/tracker.js" 
-      data-ackee-server="https://ackee-jonaylor89.herokuapp.com" 
-      data-ackee-domain-id="e99d5dd7-7706-4473-9fe4-1601d1b3cf5b">
-    </script>
+    {% if site.google_analytics and jekyll.environment == 'production' %}
+      {% include analytics.html %}
+    {% endif %}
   </head>
 </html>
 
