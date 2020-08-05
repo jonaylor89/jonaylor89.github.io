@@ -21,4 +21,5 @@ things with gdb. It really just depends on my mood.
 
 ### Contact Me
 
-Check out my <a href="resume">resume</a> for contact info or schedule a meeting on my <a href="https://x.ai/calendar/jonaylor">calendar</a>
+Check out my <a href="resume">resume</a> for contact info
+<iframe src="https://x.ai/calendar/YOUR_URL/?header=1" style="width:100%;height:100vh;border:none;" scrolling="auto"> </iframe>
