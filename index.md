@@ -22,4 +22,4 @@ things with gdb. It really just depends on my mood.
 ### Contact Me
 
 Check out my <a href="resume">resume</a> for contact info
-<script type="text/javascript" src="https://x.ai/embed/xdotai-embed.js" id="xdotaiEmbed" data-page="/jonaylor/virtual" data-height="" data-width="" data-element=".clickable-popup" async=""></script>
+<script type="text/javascript" src="https://x.ai/embed/xdotai-embed.js" id="xdotaiEmbed" data-page="/jonaylor/virtual" data-height data-width data-element async></script>
